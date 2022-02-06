@@ -17,6 +17,8 @@ I encourage you to take a look at my [CV](https://zaku.de/docs/CV-Marc-Zaku-Seni
 [<img align="left" height="20" alt="twitter" src="https://img.shields.io/badge/twitter-%231DA1F2.svg?&style=for-the-badge&logo=twitter&logoColor=white" />](https://twitter.com/marc_zaku)
 [<img align="left" height="20" alt="medium" src="https://img.shields.io/badge/medium-%2312100E.svg?&style=for-the-badge&logo=medium&logoColor=white" />](https://marczaku.medium.com)
 [<img align="left" height="20" alt="stack-overflow" src="https://img.shields.io/badge/stack%20overflow-FE7A16?logo=stack-overflow&logoColor=white&style=for-the-badge" />](http://stackoverflow.com/users/6135974/marc-zaku)
+
+<br>
 <br><!-- 23232F3E --><!-- 23316192 -->
 
 #### I can translate your Requirements into the following Languages:
@@ -30,6 +32,7 @@ I encourage you to take a look at my [CV](https://zaku.de/docs/CV-Marc-Zaku-Seni
 <img align="left" height="20" alt="lua" src="https://img.shields.io/badge/lua-%23316192?logo=lua&logoColor=white&style=for-the-badge" />
 
 <br>
+<br>
 
 #### I have confidence using the following Frameworks:
 <img align="left" height="20" alt="unity" src="https://img.shields.io/badge/unity%20-%23316192.svg?&style=for-the-badge&logo=unity&logoColor=%2361DAFB" />
@@ -38,6 +41,7 @@ I encourage you to take a look at my [CV](https://zaku.de/docs/CV-Marc-Zaku-Seni
 <img align="left" height="20" alt="vuedotjs" src="https://img.shields.io/badge/Vue.js%20-%23316192.svg?&style=for-the-badge&logo=vuedotjs&logoColor=white" />
 <img align="left" height="20" alt="mongodb" src="https://img.shields.io/badge/MongoDB%20-%23316192.svg?&style=for-the-badge&logo=mongodb&logoColor=white" />
 
+<br>
 <br>
 
 #### I have delivered Projects on these Platforms:
@@ -48,6 +52,7 @@ I encourage you to take a look at my [CV](https://zaku.de/docs/CV-Marc-Zaku-Seni
 <img align="left" height="20" alt="appstore" src="https://img.shields.io/badge/Apple%20App%20Store%20-%23316192.svg?&style=for-the-badge&logo=appstore&logoColor=%2361DAFB" />
 <img align="left" height="20" alt="googleplay" src="https://img.shields.io/badge/Google%20Play%20-%23316192.svg?&style=for-the-badge&logo=googleplay&logoColor=white" />
 
+<br>
 <br>
 
 #### I am proudly affiliated with:
