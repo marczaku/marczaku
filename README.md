@@ -57,8 +57,8 @@ I encourage you to take a look at my [CV](https://zaku.de/docs/CV-Marc-Zaku-Seni
 
 #### I am proudly affiliated with:
 <img align="left" height="20" alt="github-campus-advisor" src="https://img.shields.io/badge/Campus%20Advisor%20-%23316192.svg?&style=for-the-badge&logo=github&logoColor=%2361DAFB" />
-<img align="left" height="20" alt="khan-academy-lecturer" src="https://img.shields.io/badge/Lecturer%20-%23316192.svg?&style=for-the-badge&logo=khanacademy&logoColor=%2361DAFB" />
-<img align="left" height="20" alt="global-game-jam" src="https://img.shields.io/badge/Global%20Game%20Jam%20-%23316192.svg?&style=for-the-badge&logoColor=%2361DAFB" />
+[<img align="left" height="20" alt="khan-academy-lecturer" src="https://img.shields.io/badge/Lecturer%20-%23316192.svg?&style=for-the-badge&logo=khanacademy&logoColor=%2361DAFB" />](http://www.khanacademy.org/profile/marczaku)
+[<img align="left" height="20" alt="global-game-jam" src="https://img.shields.io/badge/Global%20Game%20Jam%20-%23316192.svg?&style=for-the-badge&logoColor=%2361DAFB" />](https://globalgamejam.org/users/teneas)
 
 <br>
 
