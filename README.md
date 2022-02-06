@@ -2,7 +2,7 @@
 
 ## I am a Frelance Software Engineer, CTO, Consultant and Lecturer
 
-Im have professional experience since 2011 in all levels of software development including: 
+I have professional experience since 2011 in all levels of software development including: 
 - hiring, leadership, consulting, lecturing
 - programming in web, mobile, frontend and backend. 
 
