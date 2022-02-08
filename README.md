@@ -1,6 +1,6 @@
 ### Oh, Hi there, my name is Marc Zaku 👋
 
-## I am a Frelance Software Engineer, CTO, Consultant and Lecturer
+## I am a Freelance Software Engineer, CTO, Consultant and Lecturer
 
 I have 11+ years of professional experience in many layers of software development including: 
 - founding, hiring, leading, consulting, lecturing
